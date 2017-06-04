@@ -1,0 +1,43 @@
+.square,
+.square2 {
+    display: inline-block;
+    margin: auto;
+}
+
+
+.square {
+    height: 400px;
+    width: 400px;
+    background-color: greenyellow;
+    border: 2px solid black;
+    position: relative;
+}
+
+.inner-square {
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    border: 1px solid black;
+    position: absolute;
+    transform: translate(50%, 50%);
+}
+
+
+
+
+.square2 {
+    height: 400px;
+    width: 400px;
+    background-color: crimson;
+    border: 2px solid darkblue;
+}
+
+
+.inner-square2 {
+    height: 200px;
+    width: 200px;
+    background-color: forestgreen;
+    border: 2px solid yellow;
+    margin-left: 100px;
+    margin-top: 100px;
+}

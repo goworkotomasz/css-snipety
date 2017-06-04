@@ -1,0 +1,23 @@
+.social-icon {
+    height: 100px;
+    width: 100px;
+    border: 2px solid green;
+    background-color: chartreuse;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 100px;
+    transition: all .3s;
+}
+
+.social-icon a {
+    color: black;
+    font-size: 4em;
+}
+
+.social-icon:hover {
+    background-color: black;
+}
+
+.social-icon:hover a {
+    color: bisque;
+}

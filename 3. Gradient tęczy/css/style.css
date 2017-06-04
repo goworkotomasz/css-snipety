@@ -1,0 +1,11 @@
+#rainbow {
+    background-color: aqua;
+    background: linear-gradient(to right, red, orange, yellow, lime, blue, purple, fuchsia);
+}
+
+
+#rainbow {
+    height: 50px;
+    width: 100%;
+    margin: 0;
+}

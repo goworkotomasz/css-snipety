@@ -1,0 +1,9 @@
+a[title=".doc"] {
+	color: red;
+    text-decoration: none;
+}
+
+a[title=".docx"] {
+	color: green;
+    text-decoration: none;
+}
